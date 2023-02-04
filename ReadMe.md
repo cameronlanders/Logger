@@ -37,7 +37,9 @@ Because Logger utilizes Windows environment variables, it is limited to Microsof
 - `Readme.md` - This file
  
 ## How To Use Logger
-The first thing you will want to do is to update the source code to replace the sample log path directory name with the actual directory within the CommonApplicationData location (usually ProgramData) where your application's folder will be stored. See Logger.cs for the exact location where you need to make this change. All you should have to do is replace the string, "your_app_name_here" with your actual application name, or whatever you name your folder under the CommonApplicationData location for your application.
+After adding the Logger.cs class to your application, the first thing you will want to do is to update it to replace the sample log path directory name with the actual directory name within the CommonApplicationData location (usually ProgramData) where your application's folder will be stored. See Logger.cs for the exact location where you need to make this change. 
+
+- All you should have to do is replace the string, "your_app_name_here" with your actual application name, or whatever you name your folder under the CommonApplicationData location for your application.
 
 The Logger class is currently enveloped in a namespace called __Util__. So you will want to add the following Using statement to the top of any class from which you would like to use Logger, like so:
 
