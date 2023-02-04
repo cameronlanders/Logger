@@ -28,7 +28,9 @@ Logger is a simple and useful class you can add to your C# programs or ASP.NET w
 
 ## Where can I use Logger?
 
-Because Logger utilizes Windows environment variables, it is limited to Microsoft&reg; Windows&reg; operating systems. The source code can easily be modified to omit or replace these variables, which would allow its use on any other operating system or framework that supports C#, such as anywhere that the open source, cross-platform version of .NET Core (console Dotnet) can be used. 
+Because Logger utilizes Windows environment variables, it is limited to Microsoft&reg; Windows&reg; operating systems. The source code can easily be modified to omit or replace these variables, which would allow its use on any other operating system or framework that supports C#, such as anywhere that the open source, cross-platform version of .NET Core (Dotnet) can be used. 
+
+>Caveat: Logger.cs also uses System.IO to write to the log files. This may need to be modified for other operating systems.
 
 ## Files in the distribution 
 - `logger.cs` - The source code for the Logger class 
