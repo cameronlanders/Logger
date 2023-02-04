@@ -1,25 +1,24 @@
 
 # Logger   
+## Add logging to your applications 
 --------------------------------------------------------------
-Version 1.0.6 - Released Dec 16, 2022
 
-Developed using C#
+- Version 1.0.6 - Released Dec 16, 2022
 
-Author: **Cameron Landers**
+- Developed using C#
 
-__Cameron's LinkedIN profile:__ 
+- Author: **Cameron Landers**
 
-https://www.linkedin.com/in/cameronlandersexperience/
+    - __LinkedIN profile:__ https://www.linkedin.com/in/cameronlandersexperience/
  
-__Cameron's Web Site:__
+    - __Web Site:__ https://conversiondynamics.com
 
-https://conversiondynamics.com
+    - __Email:__ support@conversiondynamics.com.
 
->You can contact Cameron through LinkedIN or at support@conversiondynamics.com.
+- __LICENSE:__  Free and Open Source. No restrictions. 
 
-__LICENSE:__ Free and Open Source. No restrictions. 
+- Please credit the author by including the above information in your distributions or documentation.
 
-Please credit the author by including the above information in your distributions or documentation.
 
 --------------------------------------------------------------
   
