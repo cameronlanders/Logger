@@ -1,0 +1,8 @@
+C:\dev\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\dev\LoggerTest\bin\Debug\LoggerTest.exe
+C:\dev\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\dev\LoggerTest\obj\Debug\LoggerTest.csproj.AssemblyReference.cache
+C:\dev\LoggerTest\obj\Debug\LoggerTest.csproj.SuggestedBindingRedirects.cache
+C:\dev\LoggerTest\obj\Debug\LoggerTest.csproj.CoreCompileInputs.cache
+C:\dev\LoggerTest\obj\Debug\LoggerTest.exe
+C:\dev\LoggerTest\obj\Debug\LoggerTest.pdb
